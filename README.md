@@ -12,3 +12,18 @@ The metric/ folder saves the implementation of all the four metrics use in our p
 
 
 And the implementation of all the baselines are in folder "models/"
+
+
+please cite our paper in the following format:
+
+
+@article{
+zhao2023multilabel,
+title={Multi-label Node Classification On Graph-Structured Data},
+author={Tianqi Zhao and Thi Ngan Dong and Alan Hanjalic and Megha Khosla},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=EZhkV2BjDP},
+note={}
+}
